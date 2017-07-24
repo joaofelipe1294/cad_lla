@@ -1,0 +1,7 @@
+*.tiff
+*.pyc
+*.tif
+results/
+bases/
+resultados/
+*.csv
