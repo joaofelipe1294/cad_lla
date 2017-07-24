@@ -5,3 +5,4 @@ results/
 bases/
 resultados/
 *.csv
+.DS_Store
