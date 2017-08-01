@@ -3,6 +3,7 @@
 *.tif
 results/
 bases/
+temp/
 resultados/
 *.csv
 .DS_Store

@@ -8,3 +8,4 @@ class Image:
 		self.path = image_path
 		self.label = image_path[-5]
 		self.image = cv2.imread(image_path)
+		self.name = image_path[-11:]
